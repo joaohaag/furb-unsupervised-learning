@@ -19,4 +19,4 @@ numpy
 
 Como Executar
 
-Para executar, basta copiar o código presente no arquivo Reconhecimento Facial - PCA e OpenCV.py e criar um novo projeto no google colab. As imagens que seão utilizadas devem ser upadas para a pasta ORL que deve ser criada no colab na área de arquivos. Após as imagens carregadas basta executar o código que o resultado da acurácia será exibido.
+Para executar, basta copiar o código presente no arquivo Reconhecimento Facial - PCA e OpenCV.py e criar um novo projeto no google colab. As imagens que seão utilizadas (ORL.rar e Novas_faces.rar) devem ser upadas para a pasta ORL que deve ser criada no colab na área de arquivos. Após as imagens carregadas basta executar o código que o resultado da acurácia será exibido.
