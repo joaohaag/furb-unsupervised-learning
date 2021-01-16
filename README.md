@@ -1,7 +1,7 @@
 Reconhecimento Facial - utilizando OpenCV
 
-O projeto trata-se de reconhecimento facial através de um ensaio de imagens onde 70% das imagens de uma pessoa foram utilizadas para realizar o treinamento do classificador e os outros 30% são utilizados juntamente com o classificador treinado para realizar o reconhecimento.
-O código realizar o treinamento e o teste utilizando de 10 a 20 componentes principais e registra a acurácia de cada execução (percetual de acerto das imagens).
+O projeto trata-se de reconhecimento facial através de um ensaio de 10 imagens por pessoa onde 70% das imagens de uma pessoa foram utilizadas para realizar o treinamento do classificador e os outros 30% são utilizados juntamente com o classificador treinado para realizar o reconhecimento.
+O código realiza o treinamento e o teste utilizando de 10 a 20 componentes principais e registra a acurácia (percetual de acerto das imagens) de cada número de componentes diferentes.
 
 O Projeto foi desenvolvido utilizando a ferramenta do google colab.
 
